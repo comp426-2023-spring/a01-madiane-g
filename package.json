@@ -1,8 +1,8 @@
 {
   "name": "myfirst-webserver",
   "version": "1.0.0",
-  "description": "\"This package contains Madeleine's first simple webserver\"",
-  "main": "\\",
+  "description": "This package contains Madeleine's first simple webserver",
+  "main": "server.js",
   "scripts": {
     "test": "node server.js --port=5555"
   },
@@ -11,8 +11,7 @@
     "url": "git+https://github.com/comp426-2023-spring/a01-madiane-g.git"
   },
   "keywords": [
-    "web",
-    "server",
+    "webserver",
     "port",
     "node",
     "fs",
@@ -20,7 +19,7 @@
     "http"
   ],
   "author": "madiane-g",
-  "license": "AGPL-3.0-or-later",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a01-madiane-g/issues"
   },
